@@ -36,4 +36,4 @@ Open in IntelliJ IDEA (project files included) and run `main.Main`.
 
 - [ ] Clean-up map and create first level with multiple NPC interactions 
 - [ ] Create a second level with map switch and NPC pathfinding variability 
-- [ ] Boss Fight
+- [ ] Create a boss Fight
